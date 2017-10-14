@@ -1,0 +1,80 @@
+* Gate videos
+** Theory Of Computation:
+*** DFA:
+**** Theory Of Computation 1 - Introduction to TOC and DFA
+***** https://www.youtube.com/watch?v=eqCkkC9A0Q4
+**** Theory Of Computation 2, Construction of minimal DFA and problems
+***** https://www.youtube.com/watch?v=Fp4x2JKlsG0
+**** Theory Of Computation 3 , Construction of DFA and cross product of DFA
+***** https://www.youtube.com/watch?v=_yBei5Ax4fk
+**** Theory Of Computation 4, DFA and problem
+***** https://www.youtube.com/watch?v=Y8c_3LzmF-g
+**** Theory Of Computation 5,DFA construction
+***** https://www.youtube.com/watch?v=ubpCB5XwIeM
+**** Theory Of Computation 6, DFA construction of binary no which is divisible by 2 and number system
+***** https://www.youtube.com/watch?v=8FUXyjuvry8
+**** Theory Of Computation 7,DFA of binary no which is divisible by 3
+***** https://www.youtube.com/watch?v=4yB7ECgZJmw
+**** Theory Of Computation 8,DFA of binary no divisible by 4
+***** https://www.youtube.com/watch?v=UdhgFvVMPpE
+**** Theory Of Computation 9,DFA of strings which starts with 'a'
+***** https://www.youtube.com/watch?v=O5-ZmPtqHy0
+**** Theory Of Computation 10,DFA of strings which contains 'a'
+***** https://www.youtube.com/watch?v=IGXOv29prBk
+**** Theory Of Computation 11,DFA of strings which ends with 'a'
+***** https://www.youtube.com/watch?v=Nd9Ud8SbuoU
+**** Theory Of Computation 12,Comparison between different DFAs
+***** https://www.youtube.com/watch?v=g95PXsMUPeg
+**** Theory Of Computation 13,DFA of strings which starts with 'ab'
+***** https://www.youtube.com/watch?v=NZ8LxMGSvJM
+**** Theory Of Computation 14, DFA of strings containing 'ab' as substring
+***** https://www.youtube.com/watch?v=ZQvVOt-6tSU
+**** Theory Of Computation 15, DFA of strings which ends with 'ab'
+***** https://www.youtube.com/watch?v=Gc6l4sJ_vrk
+**** Theory Of Computation 16,DFA problem and concatenation of DFA
+***** https://www.youtube.com/watch?v=yzb4J7oSyLA
+**** Theory Of Computation 17,DFA which accepts string staring and ending with different sysmbol
+***** https://www.youtube.com/watch?v=1GV_cjlTOHc
+**** Theory Of Computation 18,DFA which accepts string starting and ending with same symbol
+***** https://www.youtube.com/watch?v=N__68wjgnss
+**** Theory Of Computation 19,Complementation of DFA
+***** https://www.youtube.com/watch?v=slH1pPhWUic
+**** Theory Of Computation 20,DFA which accepts strings in which every 'a' is followed by 'b'
+***** https://www.youtube.com/watch?v=RA1ShyiE4gE
+**** Theory Of Computation 21,DFA which accepts strings in which every 'a' is never be followed by 'b'
+***** https://www.youtube.com/watch?v=Ke1EnzNh1iw
+**** Theory Of Computation 22,DFA which accepts strings in which every 'a' is followed by 'bb'
+***** https://www.youtube.com/watch?v=lPwS8mN6r4s
+**** Theory Of Computation 23,DFA which accepts strings in which every 'a' is never be followed by 'bb'
+***** https://www.youtube.com/watch?v=tyRrDfpcfGY
+**** Theory Of Computation 24,DFA which accepts strings= { a^nb^m | n,m greater than or equal to 1}
+***** https://www.youtube.com/watch?v=1dfvzcCcBJI
+**** Theory Of Computation 25,DFA which accepts strings={ a^nb^m | n,m greater than or equal to 0}
+***** https://www.youtube.com/watch?v=i1u5DMuF9KM
+**** Theory Of Computation 26,DFA which accepts strings={ a^nb^m c^l| n,m,l greater than or equal to1}
+***** https://www.youtube.com/watch?v=XANzm22JAO8
+**** Theory Of Computation 27,DFA which accepts strings={ a^nb^mc^l/n,m,l greater than equal to 0}
+***** https://www.youtube.com/watch?v=me0rzlcbs4w
+**** Theory Of Computation 28,DFA which accepts strings=a^nb^mc^l/n,m,l greater than equal to 0}
+***** https://www.youtube.com/watch?v=kiv-h4ffbl0
+**** Theory Of Computation 29,DFA which accepts strings such that 2nd symbol from LHS is 'a'
+***** https://www.youtube.com/watch?v=CHp9B7CbhnQ
+**** Theory Of Computation 30,DFA which accepts strings of form a^3bwa^3 , where 'w' is any string
+***** https://www.youtube.com/watch?v=_2AAc4Muy-0
+**** Theory Of Computation 31, DFA Union,Concatenation, Cross product, Complementaion,Reversal
+***** https://www.youtube.com/watch?v=3EaFxgel8eg
+****
+* learned...
+** 1. compizconfigsettingsmanager -> effects->animations->focus animation->wave to set wave animations.
+** 2. https://github.com/EliverLara/Ant#note to set Ant theme
+** 3. to set default theme go to appearance -> theme -> ambiance(default)
+** 4. to create new database commands=>
+       1. sudo mongo db name --port port-no
+       2. db.createUser({user: "gps", pwd: "inMbMZg2DM75", roles: [{role: "readWrite", db: "db-name (for eg gps_v1_dev)"}]})
+       3. edit  mongodb.conf uncomment auth=true
+       4. also make changes in robo
+       5. sudo service mongodb restart
+* Todo..
+** saturday_learning...
+*** nural network in clojure
+* Home..
